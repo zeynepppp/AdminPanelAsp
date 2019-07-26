@@ -1,52 +1,9 @@
+html template asp.net c# ile giydirilmiştir.Ben ücretsiz olarak bulduğum bu template i ihtiyacıma göre giydirdim sizin için de linkleri aşağıda bırakıyorum.
+
 # Jeweler
 Classic style free Bootstrap admin dashboard template.
-
-# Preview
-
-![Jeweler admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/jaweler-free-classic-admin-panel-template-1.jpg)
-
-# Included technology
-
-## Fonts
-- Google Fonts
-
-## Icons
-- Font Awesome
-
-## Scripts
-- Peity Charts
-- Sparklines
-- Scrollbar
-- TouchSpin
-- Data Table
-- JsTree
-- Skycons
-- Password Meter
-- PDF Viewer
-- Mapael
-- jvectormap
-- RangeSlider
-- Cropper
-- Data Map
-- CodeMirror
-- Chosen
-- C3 And D3
-- datetimepicker
-- x-editable
-- dropzonejs
-- form Validation
-- form Validation
-- masked input
-- mockjax
-- lobibox
-- summernote
-- editable
-
-### Changelog
-#### V 1.0.0
-Initial Release
-### Authors
-[Colorlib](https://colorlib.com)
+  
+ 
 
 ### More info
 - [Bootstrap admin dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
